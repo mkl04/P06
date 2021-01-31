@@ -16,4 +16,4 @@ For my benchmark I used U-Net as it is a very known architecture for Image Segme
 ### Results
 As can be seen, the results were very close to the ground truth on validation set.
 
-![Alt text](imgs/results.jpg?raw=true "Results on Validation set")
+![Alt text](imgs/results.PNG?raw=true "Results on Validation set")
