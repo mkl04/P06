@@ -12,3 +12,8 @@ For this repo, I've just shown my solution for Brain growth images (MRI)'s task,
 
 ### Solution
 For my benchmark I used U-Net as it is a very known architecture for Image Segmentation on medical images. Focal loss also was used as it gave better results than classic loss fuctions.
+
+### Results
+As can be seen, the results were very close to the ground truth on validation set.
+
+![Alt text](imgs/results.jpg?raw=true "Results on Validation set")
